@@ -2,7 +2,7 @@
 
 Submitted by: **Maria Esteban**
 
-**Background Color Change** is an app that displays my name, caollege, and aspirational job and changes the background color when you press the button
+**Background Color Change** is an app that displays my name, college, and aspirational job and changes the background color when you press the button
 
 Time spent: **1** hour spent in total
 
