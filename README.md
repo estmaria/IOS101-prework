@@ -20,10 +20,28 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+1. Spotify
+- Personalized playlists based on listening history
+- Offline downloads to listen music without connention
+  
+2. Tiktok
+- Algorithm that gives you exacly what you like
+- Respost tiktoks that you like for others to see
 
-## Notes
+3. Snapchat
+- Memories feature that shows pictures and videos taken on the same day in previous years
+- Streaks that track how many consecutive days you have exchanged pictures with a friend
 
-Describe any challenges encountered while building the app.
+4. Photos
+- Ability to organize pictures into albums
+- Option to create shared albums where friends can contribute photos
+- Face recognition feature that groups all pictures where a specific person appears
+
+5. WhatsApp
+- Permanently delete messages even after they have been sent
+- Customize chat backgrounds individually for each conversation
+- Pin a specific chat or contact at the top of the list
+- Enable or disable the double blue checkmark (read receipt visibility)
 
 ## License
 
