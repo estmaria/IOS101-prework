@@ -43,6 +43,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Pin a specific chat or contact at the top of the list
 - Enable or disable the double blue checkmark (read receipt visibility)
 
+App idea: 
+
 ## License
 
     Copyright [2025] [Maria Esteban]
