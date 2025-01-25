@@ -15,14 +15,18 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+<div>
+    <a href="https://www.loom.com/share/22196c004f934b05beb2043598aa3748">
+    </a>
     <a href="https://www.loom.com/share/22196c004f934b05beb2043598aa3748">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/22196c004f934b05beb2043598aa3748-c60c74d31da813b6-full-play.gif">
     </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 1. Spotify
 - Personalized playlists based on listening history
-- Offline downloads to listen music without connention
+- Offline downloads to listen music without connection
   
 2. Tiktok
 - Algorithm that gives you exacly what you like
