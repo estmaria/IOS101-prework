@@ -47,7 +47,7 @@ The following **required** functionality is completed:
 - Pin a specific chat or contact at the top of the list
 - Enable or disable the double blue checkmark (read receipt visibility)
 
-App idea: I’ve had multiple to-do-list apps or habit tracker apps but neither of them had really convinced me at a 100% so I thought it would be a good idea to create one that implements features from all of them. You can create tasks and include a description, a priority, a category, and/or a date. There could be a function to see all of them in a calendar or sort them by category or priority. It could also include a pomodoro timer where you can set up your focus time (where your phone would be put in do not disturb) and your breaks. There could also be a habit integration for recurring tasks. These are just some ideas on the top of my head. 
+**App idea:** I’ve had multiple to-do-list apps or habit tracker apps but neither of them had really convinced me at a 100% so I thought it would be a good idea to create one that implements features from all of them. You can create tasks and include a description, a priority, a category, and/or a date. There could be a function to see all of them in a calendar or sort them by category or priority. It could also include a pomodoro timer where you can set up your focus time (where your phone would be put in do not disturb) and your breaks. There could also be a habit integration for recurring tasks. These are just some ideas on the top of my head. 
 
 ## License
 
